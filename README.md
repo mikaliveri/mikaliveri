@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi 👋 I am Mikaella Liveri
 
+I am an MEng Civil Engineering student at Imperial College London. I am currently on a one year exchange at UC Berkeley.
 <!--
 **mikaliveri/mikaliveri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
